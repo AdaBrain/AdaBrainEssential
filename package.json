@@ -1,0 +1,13 @@
+{
+  "name": "com.adabrain.essential",
+  "displayName": "AdaBrain - Essential Package",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "AdaBrain essential packages for the team only",
+  "keywords": ["Unity", "Package"],
+  "dependencies": {
+  },
+  "unityRelease": {
+    "1.0.0": "preview"
+  }
+}
